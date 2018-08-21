@@ -10,7 +10,7 @@ Link to work : [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-li
 
 Day 2 : August 21, 2018
 
-Today's Progress : Continued with the math lectures on Linear Algebra from MIT Opencourseware by Prof. Gilbert Strang. Topics includes : Factorization, Transpose, Permutations. Worked with python on matrices. Started coding in python.
+Today's Progress : Continued with the math lectures on Linear Algebra from MIT Opencourseware by Prof. Gilbert Strang. Topics includes : Factorization, Transpose, Permutations. Worked with python on matrices. Started coding math in python.
 
 Thoughts : The lectures are very interesting and I find them easy.  
 
