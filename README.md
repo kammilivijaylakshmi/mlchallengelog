@@ -18,7 +18,7 @@ Link to work : [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-li
 
 Day 3 : August 28, 2018
 
-Today's Progress : Watched lecture on linear regression using gradient descent by @Siraj Raval. Its a good video to go through. The topic gradient descent was explained very well in the video. The math was explained with the help of a program parallely. 
+Today's Progress : Watched lecture on linear regression using gradient descent by Siraj Raval. Its a good video to go through. The topic gradient descent was explained very well in the video. The math was explained with the help of a program parallely. 
 
 Thoughts : The lecture was good and the coding part was really fun. I enjoyed and learned together from the video.
 
