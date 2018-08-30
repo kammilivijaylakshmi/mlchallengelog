@@ -24,3 +24,19 @@ Thoughts : The lecture was good and the coding part was really fun. I enjoyed an
 
 Link to work : [Linear regression with gradient descent](https://www.youtube.com/watch?v=XdM6ER7zTLk)
 
+Day 4 : August 29, 2018
+
+Today's Progress : I explored Microsoft azure machine learning studio today. It’s a drag and drop tool used to build, test and deploy predictive Analytics of our data. There’s no programming needed. I liked it and recommend to the beginners of machine learning.
+
+Thoughts : It is a easy tool to use. I would like to explore more about the microsoft azure for machine learning. I will do some experiments and post the link here.
+
+Link to work : [Microsoft Azure for Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/studio/data-science-for-beginners-the-5-questions-data-science-answers)
+
+Day 5 : August 30, 2018
+
+Today's Progress : I have taken the dataset from azure and predicted the car prices using the characteristics of the car. I used microsoft azure tool to do this and its really cool.
+
+Thoughts : Its a regression problem and tried different regression models and got the better accuracy with the boost regression model.
+
+Link to work : [Car Price Prediction](https://gallery.azure.ai/Experiment/Car-Price-Prediction-4)
+ 
