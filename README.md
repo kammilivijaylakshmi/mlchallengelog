@@ -39,4 +39,21 @@ Today's Progress : I have taken the dataset from azure and predicted the car pri
 Thoughts : Its a regression problem and tried different regression models and got the better accuracy with the boost regression model.
 
 Link to work : [Car Price Prediction](https://gallery.azure.ai/Experiment/Car-Price-Prediction-4)
+
+Day 6 : August 5, 2018
+
+Today's Progress : Started a course in coursera on Introduction to Data Science in python by University of Michigan. 
+
+Thoughts : Its more about python and data science a good course for intermediate programmers.
+
+Link to work : [Introduction to data science in python](https://www.coursera.org/learn/python-data-analysis)
+
+Day 7 : August 6, 2018
+
+Today's Progress : Continued the course in coursera on Introduction to Data Science in python by University of Michigan. 
+
+Thoughts : Its more about python programming.
+
+Link to work : [Introduction to data science in python](https://www.coursera.org/learn/python-data-analysis)
+
  
